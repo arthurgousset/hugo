@@ -1,5 +1,4 @@
-
-ob notes)
+# Hugo (Cheat Sheet)
 
 ## Install Hugo 
 
